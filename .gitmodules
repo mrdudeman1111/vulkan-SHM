@@ -1,0 +1,9 @@
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/glfw/glfw
+[submodule "sail"]
+	path = sail
+	url = https://github.com/HappySeaFox/sail
+[submodule "glm"]
+	path = glm
+	url = https://github.com/g-truc/glm
