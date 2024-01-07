@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/ethan/Repos/ExtImageExample/build/Release/generators/CMakePresets.json"
+    ]
+}
