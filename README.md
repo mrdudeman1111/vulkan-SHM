@@ -14,8 +14,12 @@ I made this Project to show how I use the VK_KHR_external_memory extension for s
 To compile the project run these commands in the base of the project directory.
 
 > mkdir build && cd build
+> 
 > conan install .. --build=missing
+> 
 > cmake .. --preset conan-release
+> 
 > cd Release
+> 
 > make
 
