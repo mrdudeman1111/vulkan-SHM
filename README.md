@@ -2,7 +2,7 @@
 
 ***
 
-I made this Project to show how I use the VK_KHR_external_memory extension for sharing memory between two vulkan applications. In the future I hope to add examples for Vulkan - OpenGL and vulkan - DX11/DX12, but that might take a while.
+ I was 17 when I started this project, and I made it to show how I use the VK_KHR_external_memory extension for sharing memory between two graphics applications. I had primarily written this project to remember what I had learned while writing W1reless and W1refree. In the future I had hoped to add examples for Vulkan - OpenGL and vulkan - DX11/DX12, but I have been busy with other projects.
 
 ### Building
 
